@@ -20,3 +20,12 @@
 # PhD Thesis, Posgrado en Ciencias de la Tierra, Instituto de Geología, UNAM.
 # https://ru.dgb.unam.mx/handle/20.500.14330/TES01000797397.
 #
+# Related work:
+# Zapata-Norberto, B., Morales-Casique, E., & Herrera, G. S. (2018). Nonlinear 
+# consolidation in randomly heterogeneous highly compressible aquitards. Hydrogeology 
+# Journal, 26(3), 755-769. https://doi.org/10.1007/s10040-017-1698-6.    
+# Zapata-Norberto, B., Morales-Casique, E., Le, V H., Díaz-Viera, M. (2024) Effect of 
+# cross-correlated hydraulic conductivity and compression index on nonlinear consolidation 
+# in randomly heterogeneous highly compressible aquitards. Journal of South American 
+# Earth Sciences, 147, 105109. https://doi.org/10.1016/j.jsames.2024.105109.
+#
